@@ -1,11 +1,11 @@
 {
-  "name": "11r",
-  "description": "america's favorite eleventy blog template",
-  "url": "https://reeseschultz.github.io",
+  "name": "Phj",
+  "description": "Ben Tre's favorite blog template",
+  "url": "#",
   "baseUrl": "/11r/",
   "author": {
-    "handle": "@ReeseCodes",
-    "name": "Reese Schultz"
+    "handle": "@Phj",
+    "name": "DO DAT PHI"
   },
   "images": {
     "twitter": "twitter.jpg",
